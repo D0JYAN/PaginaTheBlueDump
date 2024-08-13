@@ -130,3 +130,4 @@ if (isset($_POST['nombre']) && isset($_POST['email']) && isset($_POST['pass']) &
     echo '</div>';
     echo '</body>';
 }
+?>
