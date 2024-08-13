@@ -39,7 +39,7 @@ $mensaje = '
     <h2>Este Es Tu Código</h2>
     <h1>' . $codigo . '</h1>
     <p>
-        <a href="http://localhost/Verificacion_Usuario/confirm.php?email=' . $email . '">Presiona Aquí Para Verificar Tu Cuenta</a>
+        <a href="http://localhost/PaginaTheBlueDump/confirm.php?email=' . $email . '">Presiona Aquí Para Verificar Tu Cuenta</a>
     </p>
 </body>
 </html>
