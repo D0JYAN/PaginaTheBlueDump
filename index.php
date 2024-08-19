@@ -23,7 +23,7 @@ session_start();
     <div class="container">
 
         <?php
-        include './Estructura/navbar.php'
+        include 'estructura/navbar.php'
         ?>
 
         Inicio
