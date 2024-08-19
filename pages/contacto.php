@@ -10,6 +10,8 @@
 <body>
     <div class="container">
 
+    Contacto
+
         <?php
             include '../Estructura/navbar.php';
         ?>

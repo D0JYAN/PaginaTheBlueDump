@@ -26,6 +26,8 @@ session_start();
         include './Estructura/navbar.php'
         ?>
 
+        Inicio
+
         <script>
             // Realiza una solicitud AJAX cada 5 minutos (300,000 milisegundos)
             setInterval(function() {

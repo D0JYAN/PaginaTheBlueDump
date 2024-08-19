@@ -10,6 +10,8 @@
 <body>
     <div class="container">
 
+    Controles
+
         <?php
             include '../Estructura/navbar.php';
         ?>

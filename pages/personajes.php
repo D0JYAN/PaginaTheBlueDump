@@ -10,6 +10,8 @@
 <body>
     <div class="container">
 
+    Personajes
+
         <?php
             include '../Estructura/navbar.php';
         ?>

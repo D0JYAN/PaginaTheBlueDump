@@ -10,6 +10,8 @@
 <body>
     <div class="container">
 
+    Novedades
+
         <?php
             include '../Estructura/navbar.php';
         ?>

@@ -10,6 +10,8 @@
 <body>
     <div class="container">
 
+    Puntuacion
+
         <?php
             include '../Estructura/navbar.php';
         ?>
